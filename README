@@ -1,0 +1,6 @@
+echo "# Introduction-to-Python-Test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/zyykyy/Introduction-to-Python-Test.git
+git push -u origin master
